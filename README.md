@@ -1,6 +1,6 @@
 # Responsive Footer HTML & CSS
 
-![Responsive Footer](screenshot.png) <!-- Optional: add screenshot of your footer -->
+![Responsive Footer]
 
 A fully **responsive footer** built with **HTML and CSS**. The design is modern, clean, and works on all devices. Includes **newsletter subscription form** and **social media icons**.  
 
@@ -25,3 +25,26 @@ This project is perfect for **beginners** who want to learn responsive layouts a
 - **CSS3**
 - **Font Awesome** (for icons)
 - **Google Fonts** (Open Sans)
+
+  ---
+
+## Folder Structure
+
+responsive-footer/
+│
+├── index.html # Main HTML file
+├── style.css # CSS styling file
+└── README.md # Project documentation
+
+---
+
+## How to Use
+
+1. Clone the repository:
+
+```bash
+1) git clone https://github.com/yourusername/responsive-footer.git
+
+2) Open index.html in your browser.
+
+3) Customize links, text, and colors as per your project needs.
