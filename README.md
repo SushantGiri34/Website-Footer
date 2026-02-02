@@ -25,3 +25,14 @@ This project is perfect for **beginners** who want to learn responsive layouts a
 - **CSS3**
 - **Font Awesome** (for icons)
 - **Google Fonts** (Open Sans)
+
+  ---
+
+## Folder Structure
+
+responsive-footer/
+│
+├── index.html # Main HTML file
+├── style.css # CSS styling file
+└── README.md # Project documentation
+
